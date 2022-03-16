@@ -9,4 +9,4 @@ Mechanisms proposed for building affordable compound cable robots for use in sma
 
 |#|Mechanism|Diagram|Description |BoM |
 |--|--------|-------|------------|-----|
-|1 | [Chain-driven external-braking mechanism](mechanisms/chain-driven-external-breaking-mechanism)| |[X] Chain Drive \n [ ] Can drive cable [ ] Internal brakes | .. |
+|1 | [Chain-driven external-braking mechanism](mechanisms/chain-driven-external-breaking-mechanism)| |[X] Chain Drive <br> [ ] Can drive cable <br>[ ] Internal brakes | .. |
